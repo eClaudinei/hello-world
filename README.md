@@ -6,3 +6,4 @@ Arquivo alterado no Visual Stuido Code
 Segundo alteracao no Visual Studio Code
 Terceira Alteracao no visual studio code
 Quarta Alteracao no visual studio code
+Quinta alteracao no visual studi e terceiro commit do arquivo
